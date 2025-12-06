@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Pham Tuong Ngan
 * Student ID: 23BI14334
-* Student Group ID: Not-for-now
+* Student Group ID: 12
